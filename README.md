@@ -1,3 +1,5 @@
+Student Management System
+
 A web-based application built using Spring Boot for managing student records. It supports CRUD (Create, Read, Update, Delete) operations and allows users to manage students efficiently.
 
 Project Description:
